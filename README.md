@@ -10,4 +10,4 @@ Each challenge will have:
 
 | Week # | Project |
 |--------|---------|
-|Week 1|[Pokedex](./projects/Week 1 - Pokedex.md)|
+|Week 1|[Pokedex](/projects/Week%201%20-%20Pokedex.md)|
