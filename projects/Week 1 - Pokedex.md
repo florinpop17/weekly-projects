@@ -1,7 +1,5 @@
 # Pokedex
 
-**Tier:** 2
-
 An application where you can search and see information about every pokemon.
 
 -   In order to complete this project you need to use the [pokemon api](https://pokeapi.co/).
@@ -23,6 +21,6 @@ An application where you can search and see information about every pokemon.
 
 ## Example projects
 
-- https://ng-pokedex.web.app/
-- https://codepen.io/FlorinPop17/pen/gOYZxyE
-- https://dex.pokemonshowdown.com/pokemon
+- [Example 1](https://ng-pokedex.web.app/)
+- [Example 2](https://codepen.io/FlorinPop17/pen/gOYZxyE)
+- [Example 3](https://dex.pokemonshowdown.com/pokemon)
