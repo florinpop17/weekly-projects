@@ -28,3 +28,4 @@ An application where you can search and see information about every pokemon.
 ## Submissions
  - [@mihaiandrei97](https://mihai-pokedex.netlify.com/)
  - [@ivanms1](https://ivan-pokedex.netlify.com/)
+ - [@florinpop17](https://www.youtube.com/watch?v=XL68br6JyYs)
