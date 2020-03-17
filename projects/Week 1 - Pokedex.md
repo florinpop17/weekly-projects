@@ -24,3 +24,8 @@ An application where you can search and see information about every pokemon.
 - [Example 1](https://ng-pokedex.web.app/)
 - [Example 2](https://codepen.io/FlorinPop17/pen/gOYZxyE)
 - [Example 3](https://dex.pokemonshowdown.com/pokemon)
+
+## Submissions
+ - [@mihaiandrei97](https://mihai-pokedex.netlify.com/)
+ - [@ivanms1](https://ivan-pokedex.netlify.com/)
+ - [@florinpop17](https://www.youtube.com/watch?v=XL68br6JyYs)
