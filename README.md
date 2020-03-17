@@ -17,3 +17,4 @@ After you complete a challenge, feel free to open a PR and add your own submissi
 | Week # | Project                                        |
 | ------ | ---------------------------------------------- |
 | Week 1 | [Pokedex](/projects/Week%201%20-%20Pokedex.md) |
+| Week 2 | [COVID-19 Tracker](/projects/Week%202%20-%20COVID-19.md) |
