@@ -28,3 +28,5 @@ An application where the user can search and see information about the spread of
 - [Example 3](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 ## Submissions
+- [@CoreChallenge](https://weekly-project-corvid.netlify.com/)
+- [@ivanms1](https://ivan-pokedex.netlify.com/)
