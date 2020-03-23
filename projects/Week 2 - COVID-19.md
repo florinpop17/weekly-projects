@@ -29,4 +29,4 @@ An application where the user can search and see information about the spread of
 
 ## Submissions
 - [@CoreChallenge](https://weekly-project-corvid.netlify.com/)
-- [@ivanms1](https://ivan-pokedex.netlify.com/)
+- [@ivanms1](https://covid-tracker-ten.now.sh/)
