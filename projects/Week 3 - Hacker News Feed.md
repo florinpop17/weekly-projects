@@ -1,4 +1,4 @@
-# Movie App
+# Hacker News Feed
 
 An application where the user can search and see articles from Hacker News
 
