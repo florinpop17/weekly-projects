@@ -32,3 +32,4 @@ An application where the user can search and see information about the spread of
 - [@ivanms1](https://covid-tracker-ten.now.sh/)
 - [@satsuroki](https://covid-19.guineeapps.com/index.html)
 - [@angels7](https://covid19track.netlify.com/)
+- [@Rakshit](https://covidtracker-raj.netlify.com/)
