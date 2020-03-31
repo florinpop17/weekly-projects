@@ -23,3 +23,4 @@ An application where the user can search and see articles from Hacker News
 - [Example 1](https://www.youtube.com/watch?v=LN6Dol_fX0w)
 
 ## Submissions
+- [@RishabKumar7](https://dazzling-snyder-c0a36c.netlify.com)
