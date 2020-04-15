@@ -21,3 +21,4 @@ After you complete a challenge, feel free to open a PR and add your own submissi
 | Week 3 | [Hacker News Feed](/projects/Week%203%20-%20Hacker%20News%20Feed.md) |
 | Week 4 | [Movie App](/projects/Week%204%20-%20Movie%20App.md) |
 | Week 5 | [Chuck Norris Joke Generator](/projects/Week%205%20-%20Chuck%20Norris%20App.md) |
+| Week 6 | [Math Game](/projects/Week%206%20-%20Math%20Game.md) |
