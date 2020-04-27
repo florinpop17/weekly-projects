@@ -21,3 +21,6 @@ Design the coolest signup page.
 -   [Example 2](https://codepen.io/ehermanson/pen/KwKWEv)
 
 ## Submissions
+-   [@rishabkumar7](https://signup-rk.netlify.app/)
+-   [@rockBottom](https://rockbott0m.github.io/my-com-register-log-in-form/)
+-   [@AhmedRiad](https://ahmed5.netlify.app/ )
