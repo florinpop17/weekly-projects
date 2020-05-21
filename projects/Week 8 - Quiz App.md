@@ -1,6 +1,6 @@
 # Quiz App
 
-An app to challenge the user's knowlegde.
+An app to challenge the user's knowledge.
 
 ## User Stories
 
