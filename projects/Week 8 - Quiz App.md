@@ -21,3 +21,4 @@ An app to challenge the user's knowlegde.
 -   [Trivia API](https://opentdb.com/api_config.php)
 
 ## Submissions
+- Trivia Quiz App (http://quiz-ies.netlify.app)
