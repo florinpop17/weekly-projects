@@ -24,3 +24,4 @@ After you complete a challenge, feel free to open a PR and add your own submissi
 | Week 6 | [Math Game](/projects/Week%206%20-%20Math%20Game.md) |
 | Week 7 | [Signup Page](/projects/Week%207%20-%20Signup%20Page.md) |
 | Week 8 | [Quiz App](/projects/Week%208%20-%20Quiz%20App.md) |
+| Week 9 | [Daily Planner](/projects/Week%209%20-%20Daily%20Planner.md) |
