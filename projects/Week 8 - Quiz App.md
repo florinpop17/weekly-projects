@@ -28,3 +28,5 @@ An app to challenge the user's knowlegde.
 -   [@revengemiroz](https://flamboyant-sinoussi-7ab217.netlify.app/quiz-app/index.html)
 -   [@pvcodes](https://pvcodes-quizapp.herokuapp.com/result)
 -   [@mihaiandrei97](https://pop-quizo.netlify.app/)
+-   [@ReBelSuPs](https://supsquizapp.netlify.app/)
+-   [@ivanms1](https://quiz-app-five.now.sh/)
