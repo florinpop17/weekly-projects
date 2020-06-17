@@ -17,7 +17,7 @@ An application where you can search and see information about every pokemon.
 
 ## Useful links and resources
 
--   [Api Docs](https://pokeapi.co/docs/v2.html/)
+-   [Api Docs](https://pokeapi.co/docs/v2)
 
 ## Example projects
 
