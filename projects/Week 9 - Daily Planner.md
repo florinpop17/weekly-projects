@@ -20,3 +20,5 @@ An app where the user can create tasks and organize them by priority or status.
 -   [Example](https://react-trello-clone.netlify.app/)
 
 ## Submissions
+
+-   [ReBelSuPs](https://dailyplanner.netlify.app/)
