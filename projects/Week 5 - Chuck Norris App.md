@@ -20,4 +20,6 @@ A simple app that generates Chuck Norris Jokes
 - [Example 2](https://mazipan.github.io/chucknorris/#/)
 
 ## Submissions
+- [@AhmedRiad](https://ahmed3.netlify.com/)
+- [@ivanms1](https://chuck-norris-jokes.ivanms1.now.sh/)
 - [@satendrassharma](https://chuck-norris-joke.netlify.com/)

@@ -17,7 +17,7 @@ An application where you can search and see information about every pokemon.
 
 ## Useful links and resources
 
--   [Api Docs](https://pokeapi.co/docs/v2.html/)
+-   [Api Docs](https://pokeapi.co/docs/v2)
 
 ## Example projects
 
@@ -29,3 +29,4 @@ An application where you can search and see information about every pokemon.
  - [@mihaiandrei97](https://mihai-pokedex.netlify.com/)
  - [@ivanms1](https://ivan-pokedex.netlify.com/)
  - [@florinpop17](https://www.youtube.com/watch?v=XL68br6JyYs)
+ - [@ciel73](https://weekly-projects.netlify.app/projects/week-1/index.html)
