@@ -22,3 +22,4 @@ An app where the user can create tasks and organize them by priority or status.
 ## Submissions
 
 -   [ReBelSuPs](https://dailyplanner.netlify.app/)
+-   [Steffan153](https://dailyplanner17.netlify.app/)
