@@ -24,3 +24,6 @@ A movie dashboard where the user can search and explore movies
 - [Example 3](https://mrpaxton.github.io/react-admin-movies/#/login)
 
 ## Submissions
+ - [@mihaiandrei97](https://metflix-movie-app.netlify.com/)
+ - [@rishabkumar7](https://mainproj-web.herokuapp.com/)
+ - [@ivanms1](https://movies-app.ivanms1.now.sh/)
