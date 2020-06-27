@@ -21,6 +21,7 @@ An app to challenge the user's knowlegde.
 -   [Trivia API](https://opentdb.com/api_config.php)
 
 ## Submissions
+-   [@IrfanEzani](http://quiz-ies.netlify.app)
 -   [@theAspiringDev1](https://quizgamefinal.netlify.app/)
 -   [@Steffan153](https://fp-react-quiz-app.netlify.app/)
 -   [@Raj2631](https://weeb-check-raj.netlify.app/)
