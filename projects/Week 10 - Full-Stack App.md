@@ -6,7 +6,7 @@ Build any full-stack app containing a separate API and a Client.
 
 - [ ] Separate API and Client.
 - [ ] Team members cannot exceed 2.
-- [ ] At least X API endpoints.
+- [ ] At least 2 API endpoints.
 - [ ] Work on UX/UI to make it pretty, responsive, etc.
 
 ## Bonus features
