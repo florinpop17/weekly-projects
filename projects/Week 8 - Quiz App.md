@@ -31,3 +31,4 @@ An app to challenge the user's knowlegde.
 -   [@mihaiandrei97](https://pop-quizo.netlify.app/)
 -   [@ReBelSuPs](https://supsquizapp.netlify.app/)
 -   [@ivanms1](https://quiz-app-five.now.sh/)
+-   [@Gopi30k](https://suspicious-keller-513235.netlify.app/)
