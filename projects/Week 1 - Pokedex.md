@@ -30,3 +30,4 @@ An application where you can search and see information about every pokemon.
  - [@ivanms1](https://ivan-pokedex.netlify.com/)
  - [@florinpop17](https://www.youtube.com/watch?v=XL68br6JyYs)
  - [@ciel73](https://weekly-projects.netlify.app/projects/week-1/index.html)
+ - [@SomShekhar](https://codepen.io/ssmkhrj/full/JjXmmMG)
