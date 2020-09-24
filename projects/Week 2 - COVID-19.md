@@ -36,3 +36,4 @@ An application where the user can search and see information about the spread of
 - [@revengemiroz](https://sad-poincare-02054d.netlify.com/?fbclid=IwAR0fUuhR4UM3AWu7Lrl5ZH7WljX63X0_3FQ3xkE5DnnEwnlXsEux2AqGRrA)
 - [@mbalaji5](http://covid19tracker.atwebpages.com/)
 - [@rishabkumar7](https://covid-19.rishabkumar.ga/)
+- [@ved08](https://ved08.github.io/COVID-19-info)
