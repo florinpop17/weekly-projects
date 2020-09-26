@@ -29,6 +29,7 @@ An application where the user can search and see information about the spread of
 
 ## Submissions
 - [@CoreChallenge](https://weekly-project-corvid.netlify.com/)
+- [@Ameen](https://covid-19-tracker-nine.vercel.app/)
 - [@ivanms1](https://covid-tracker-ten.now.sh/)
 - [@satsuroki](https://covid-19.guineeapps.com/index.html)
 - [@angels7](https://covid19track.netlify.com/)
