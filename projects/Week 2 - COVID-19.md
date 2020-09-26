@@ -37,3 +37,4 @@ An application where the user can search and see information about the spread of
 - [@mbalaji5](http://covid19tracker.atwebpages.com/)
 - [@rishabkumar7](https://covid-19.rishabkumar.ga/)
 - [@ved08](https://ved08.github.io/COVID-19-info)
+- [@santos25](https://santos25.github.io/coronavirustracker)
