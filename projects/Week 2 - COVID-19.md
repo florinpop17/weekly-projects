@@ -39,3 +39,4 @@ An application where the user can search and see information about the spread of
 - [@rishabkumar7](https://covid-19.rishabkumar.ga/)
 - [@ved08](https://ved08.github.io/COVID-19-info)
 - [@santos25](https://santos25.github.io/coronavirustracker)
+- [@rishipurwar1](https://covid-2019tracker.netlify.app/)
