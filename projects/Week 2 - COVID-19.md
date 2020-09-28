@@ -41,3 +41,4 @@ An application where the user can search and see information about the spread of
 - [@santos25](https://santos25.github.io/coronavirustracker)
 - [@rishipurwar1](https://covid-2019tracker.netlify.app/)
 - [@SomShekhar](https://covid19-virus-stats.netlify.app/)
+- [@gueguet](https://laughing-shannon-23486b.netlify.app/)
