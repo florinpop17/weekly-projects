@@ -23,3 +23,4 @@ A simple app that generates Chuck Norris Jokes
 - [@AhmedRiad](https://ahmed3.netlify.com/)
 - [@ivanms1](https://chuck-norris-jokes.ivanms1.now.sh/)
 - [@satendrassharma](https://chuck-norris-joke.netlify.com/)
+- [@Antoine60](https://french-chuck-norris.netlify.app/)
