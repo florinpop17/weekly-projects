@@ -25,3 +25,4 @@ An application where the user can search and see articles from Hacker News
 ## Submissions
 - [@RishabKumar7](https://dazzling-snyder-c0a36c.netlify.com)
 - [@Antoine60](https://hopeful-hodgkin-f4a6e6.netlify.app/)
+- [@A.#0894](https://hackernews-v1.netlify.app/)
