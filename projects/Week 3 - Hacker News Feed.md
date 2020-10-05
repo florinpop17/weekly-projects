@@ -26,3 +26,4 @@ An application where the user can search and see articles from Hacker News
 - [@RishabKumar7](https://dazzling-snyder-c0a36c.netlify.com)
 - [@Antoine60](https://hopeful-hodgkin-f4a6e6.netlify.app/)
 - [@pbteja1998](https://pbt.im/hnews)
+- [@imshines](https://hackern.netlify.app) or [alternate-link](http://hn.mohankumar.live)
