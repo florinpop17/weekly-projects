@@ -1,4 +1,4 @@
-# Full-Stack App
+# Bank Simulator
 
 Build a bank simulator where users can create their account
 
