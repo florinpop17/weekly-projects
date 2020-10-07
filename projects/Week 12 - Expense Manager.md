@@ -1,4 +1,4 @@
-# Full-Stack App
+# Expense Manager
 
 Build an expense manager which can be used to track montly expenses
 
@@ -11,8 +11,6 @@ Build an expense manager which can be used to track montly expenses
 
 ## Bonus features
 
-- [ ] Use a database. 
-- [ ] Authentication.
 - [ ] Allow users to create their own catergories
 
 ## Submissions
