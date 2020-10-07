@@ -1,4 +1,4 @@
-# Full-Stack App
+# Attendance Manager
 
 Build an attendence monitoring system for teachers
 
