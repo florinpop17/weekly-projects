@@ -26,7 +26,7 @@ After you complete a challenge, feel free to open a PR and add your own submissi
 | Week 8 | [Quiz App](/projects/Week%208%20-%20Quiz%20App.md) |
 | Week 9 | [Daily Planner](/projects/Week%209%20-%20Daily%20Planner.md) |
 | Week 10 | [Full-Stack App](/projects/Week%2010%20-%20Full-Stack%20App.md) |
-| Week 12 | [Expense Manager](/projects/Week%207%20-%20Expense%20Manager.md) |
-| Week 13 | [Bank Simulator](/projects/Week%207%20-%20Bank%20Simulator.md) |
-| Week 14 | [Supermarket](/projects/Week%207%20-%20Supermarket.md) |
-| Week 15 | [Attendance Manager](/projects/Week%207%20-%20Attendence%20Manager.md) |
+| Week 12 | [Expense Manager](/projects/Week%2012%20-%20Expense%20Manager.md) |
+| Week 13 | [Bank Simulator](/projects/Week%2013%20-%20Bank%20Simulator.md) |
+| Week 14 | [Supermarket](/projects/Week%2014%20-%20Supermarket.md) |
+| Week 15 | [Attendance Manager](/projects/Week%2015%20-%20Attendence%20Manager.md) |
