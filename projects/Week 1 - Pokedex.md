@@ -37,3 +37,4 @@ An application where you can search and see information about every pokemon.
  - [@DharmarajX24](https://react-pokedex-4e168.web.app/)
  - [@muinmundzir](http://vue-poke.herokuapp.com)
  - [@amoutonbrady](https://pokedex.amoutonbrady.dev)
+ - [@Joinik](http://joinik.com/MyPortfolio/pokedex)
