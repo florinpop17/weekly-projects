@@ -30,3 +30,4 @@ A simple app that generates Chuck Norris Jokes
 - [@mihaiandrei97](https://jokes-on-you.netlify.app/)
 - [@hussamkhatib](https://chuck-norris-has-jokes.netlify.app/)
 - [@Steffan153](https://chuck-norrisjoke.netlify.app/)
+- [@reza899](https://reza899.github.io/jokes-generator/)
