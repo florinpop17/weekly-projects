@@ -18,4 +18,5 @@ An operations math game
 
 ## Submissions
 -   [@mihaiandrei97](https://math-multiplayer-react-app.netlify.com)
+-   [@baijanathTharu](https://mathegamics-client.herokuapp.com/)
 -   [@SomShekhar](https://multiplayer-math-quiz-game.herokuapp.com/)
