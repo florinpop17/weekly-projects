@@ -28,3 +28,4 @@ A movie dashboard where the user can search and explore movies
  - [@rishabkumar7](https://mainproj-web.herokuapp.com/)
  - [@ivanms1](https://movies-app.ivanms1.now.sh/)
  - [@A.#0894](https://vueflixx.netlify.app/)
+ - [@Abiola-Farounbi](https://moviemania1.netlify.app/)
