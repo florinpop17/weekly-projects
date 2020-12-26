@@ -25,3 +25,4 @@ Design the coolest signup page.
 -   [@rockbott0m](https://rockbott0m.github.io/my-com-register-log-in-form/)
 -   [@AhmedRiad](https://ahmed5.netlify.app/)
 -   [revengemiroz](https://quirky-meninsky-53241c.netlify.app/)
+-   [@baijanathTharu](https://weekly-project-signup-page.netlify.app/)
