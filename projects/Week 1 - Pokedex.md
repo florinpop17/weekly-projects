@@ -39,3 +39,4 @@ An application where you can search and see information about every pokemon.
  - [@amoutonbrady](https://pokedex.amoutonbrady.dev)
  - [@Joinik](http://joinik.com/MyPortfolio/pokedex)
  - [@haykmell](https://codepen.io/haykmell/pen/rNLOvqW)
+ - [@skipz155](https://642b2fdeeb9b5d2631d5d2dd--peaceful-gumdrop-4a24c1.netlify.app/)
